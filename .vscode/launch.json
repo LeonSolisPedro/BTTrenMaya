@@ -1,0 +1,11 @@
+{
+  "configurations": [
+    {
+      "name": "C#: signalR101",
+      "type": "dotnet",
+      "request": "launch",
+      "projectPath": "${workspaceFolder}/signalR101.csproj",
+      "launchConfigurationId": "TargetFramework=;signalR101"
+    }
+  ]
+}
